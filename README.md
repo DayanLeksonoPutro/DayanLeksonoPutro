@@ -1,6 +1,6 @@
 # Dayan Leksono Putro
 
-📍 Indonesia · ✉️ [dayteta@email.com] · 🌐 [github.com/DayanLeksonoPutro] · 
+📍 Bondowoso . 🇮🇩 Indonesia · ✉️ [dayteta@email.com] · 🌐 [github.com/DayanLeksonoPutro] · 
 
 ---
 
@@ -15,9 +15,9 @@ Developer berpengalaman dengan spesialisasi ,**Mobile development (Android & iOS
 - **Java**: Aplikasi Android, REST API integration, State Management, Local Storage
 - **Swift**: Aplikasi iOS, REST API integration, State Management, Local Storage
 - **Flutter**: Aplikasi Android/iOS, REST API integration, State Management, Local Storage
-- **MetaTrader 5 (MQL5)**: Expert Advisor, Backtest, Strategy Optimization, Risk Management
 - **WordPress**: Plugin Development, Custom Functionality, REST API, WooCommerce
 - **Dev Tools**: Git, GitHub, Postman, VS Code, Android Studio
+- **MetaTrader 5 (MQL5)**: Expert Advisor, Backtest, Strategy Optimization, Risk Management
 
 ---
 
