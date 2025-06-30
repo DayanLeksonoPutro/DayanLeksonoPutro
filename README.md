@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Profil Singkat
 
-Developer berpengalaman dengan spesialisasi di **Java Android development **, **SwiftUI IOs development **, ,**Flutter mobile development (Android & iOS)**, **Expert Advisor MT5**, dan **WordPress plugin customization**. Terbiasa bekerja dalam berbagai project, baik individu maupun tim, dengan fokus pada performa, efisiensi, dan solusi praktis.
+Developer berpengalaman dengan spesialisasi ,**Mobile development (Android & iOS)**, **Expert Advisor MT5**, dan **WordPress plugin customization**. Terbiasa bekerja dalam berbagai project, baik individu maupun tim, dengan fokus pada performa, efisiensi, dan solusi praktis.
 
 ---
 
@@ -17,21 +17,21 @@ Developer berpengalaman dengan spesialisasi di **Java Android development **, **
 - **Flutter**: Aplikasi Android/iOS, REST API integration, State Management, Local Storage
 - **MetaTrader 5 (MQL5)**: Expert Advisor, Backtest, Strategy Optimization, Risk Management
 - **WordPress**: Plugin Development, Custom Functionality, REST API, WooCommerce
-- **Backend**: PHP, Laravel (dasar), Firebase, Node.js (dasar)
 - **Dev Tools**: Git, GitHub, Postman, VS Code, Android Studio
-- **Lainnya**: AdMob, SharedPreferences, JSON parsing, UI/UX Mobile
 
 ---
 
 ## 💼 Pengalaman Kerja
 
-**Freelance Developer**  
-*Jan 2020 – Sekarang*  
+**Developer**  
+*Jan 2014 – Sekarang*  
 Mengerjakan berbagai project mobile, EA trading, dan website untuk klien lokal dan luar negeri.
 
-- Membangun lebih dari 15 aplikasi Flutter (Android/iOS)
-- Membuat EA MT5 custom berdasarkan strategi klien
+- Membangun lebih dari 20 aplikasi Flutter (Android/iOS)
 - Custom plugin WordPress dan integrasi sistem pembayaran
+- Menganalisa teknikal trading untuk EA
+- Membuat EA MT5 custom berdasarkan strategi klien
+- Melakukan Strategy Optimization dari EA yang dikembangkan
 
 ---
 
@@ -39,14 +39,6 @@ Mengerjakan berbagai project mobile, EA trading, dan website untuk klien lokal d
 
 **S1 Teknik Informatika**  
 Universitas Muhammadiay Jember, 2009 – 2013  
-
----
-
-## 📞 Kontak
-
-📧 Email: dayteta@email.com  
-Intagram: https://www.instagram.com/dayanleksonoputro/
-
 
 ---
 
