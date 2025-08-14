@@ -44,7 +44,9 @@ Universitas Muhammadiay Jember, 2009 – 2013
 
 ## 🏆 Sertifikat Profirm
 
-![the5ers](https://github.com/DayanLeksonoPutro/DayanLeksonoPutro/blob/501b2843450afa5b2ab6043515a16560c046f11d/program-achievement-1751548194182.png)
-![Quantekel](https://github.com/DayanLeksonoPutro/DayanLeksonoPutro/blob/17d046e688493b9f3100bf76822f2fbd2d4794ee/Sertifikat%20Profirm%20quanttekel.png)
+<p align="left">
+  <img src="https://github.com/DayanLeksonoPutro/DayanLeksonoPutro/blob/501b2843450afa5b2ab6043515a16560c046f11d/program-achievement-1751548194182.png" alt="The5ers Certificate" width="400">
+  <img src="https://github.com/DayanLeksonoPutro/DayanLeksonoPutro/blob/17d046e688493b9f3100bf76822f2fbd2d4794ee/Sertifikat%20Profirm%20quanttekel.png" alt="Quantekel Certificate" width="400">
+</p>
 
 
